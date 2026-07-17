@@ -1,0 +1,206 @@
+Start
+EN
+Privacy Policy
+
+Last Updated: 23/03/2026
+
+Introduction
+
+OpenGov Services LLC ("Company," "we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you interact with our website and any related products or services. It also outlines your rights and choices regarding your personal information. This Policy is intended for general business use and may include optional sections for specific industries or regions. By using our website, you agree to the practices described in this Privacy Policy. If you do not agree, please discontinue use of our services.
+
+Types of Data Collected
+
+We collect several types of information from and about users for various purposes as described below. The exact data collected will depend on your interactions with us, but it generally includes:
+
+Personal Identifiers: Information you provide to us, such as your name, contact details (email address, telephone number, postal address), and other identifiers.
+Customer Records & Transaction Information: Payment information such as billing address and limited payment-related details necessary to facilitate transactions through our payment and service providers. If you submit a request or make a purchase through our website, we collect the information needed to process the transaction and provide the requested service.
+Usage Data: Information collected automatically about your use of our services. This may include your IP address, browser type, device identifiers, pages viewed, referring URLs, clicks and interactions, and timestamps of visits. We may also log device and network information such as operating system and browser version, as well as diagnostic data about how our services are performing.
+Cookies and Tracking Technologies: We use cookies, web beacons, and similar tracking technologies to collect usage data and enhance your experience (see Cookies and Tracking section below for details). For example, we may use cookies to understand how you navigate our website and tailor content or advertisements to you.
+Communications: The content of your communications with us, such as emails, customer support inquiries, or chat messages. If you contact us or respond to our communications, we will collect and retain that information.
+Third-Party Sources: We may receive information about you from other sources to the extent you have consented or as permitted by law. For example, we may supplement our records with information from analytics providers, advertising partners, payment facilitators, or publicly available sources.
+
+Please note: You can choose not to provide certain personal information. However, doing so may limit your ability to use some features of our website or receive our services. We only collect information that is relevant for the purposes stated in this Policy and as allowed by law. Sensitive personal information is only collected where necessary and handled with additional care.
+
+How Data Is Used
+
+OpenGov Services LLC uses your personal information for the following purposes:
+
+To Provide and Maintain Our Services: We process personal information to fulfill our obligations to you, such as processing requests, facilitating transactions, and providing the features or functionality you expect. We also use contact information to communicate with you about your request, purchase, or customer support inquiry.
+To Improve and Personalize Your Experience: Personal data is used to understand and analyze user behavior in order to improve our offerings. We may use your information to customize website content, remember your preferences, and develop new features or services. This includes analyzing usage patterns and feedback to enhance functionality, usability, and customer experience.
+Communication and Notifications: We use contact information (like email or phone number) to send administrative information such as confirmations, technical notices, updates, security alerts, and, where permitted, marketing communications. You can opt out of marketing emails at any time by using the unsubscribe link or contacting us directly.
+Advertising and Analytics: We may use data about you to provide relevant advertisements and marketing, both on our website and on other platforms. We also use analytics data to understand the effectiveness of our advertising and marketing campaigns.
+Compliance and Legal Obligations: We process personal information as needed to comply with applicable laws, regulations, and contractual obligations. This includes using data to fulfill tax, accounting, and legal requirements, and to respond to valid legal requests. We may also use your data to enforce our terms of service and to prevent fraud or other prohibited activities.
+Security and Fraud Prevention: Information, including usage data and device information, is used to maintain the security of our website and services. We monitor for suspicious or malicious activity and may use personal data to prevent, detect, and investigate fraud, cyber incidents, or other abuse of our services.
+Other Purposes (with Consent): If we intend to use your personal information for a purpose not described above, we will explain it at the point of collection and, if required, obtain your consent.
+
+We make sure that we have a valid legal basis to use your personal information. Depending on the context, our legal basis may include your consent, the necessity to perform a contract with you, compliance with a legal obligation, or our legitimate business interests, such as improving our services, conducting analytics, advertising our services, or ensuring security.
+
+Sharing and Disclosure of Information
+
+We do not sell your personal information to third parties for their independent use. However, we may share your personal data with third parties in certain circumstances, as outlined below, in order to operate our business and provide our services to you:
+
+Service Providers: We share personal information with third-party vendors and service providers that perform functions on our behalf. This includes companies that assist with payment processing, website hosting, data analysis, email delivery, customer service, and marketing. For example, if you make a purchase, your transaction-related information may be processed through our payment and platform service providers, including FanBasis, subject to their applicable Terms and Privacy Policy. These service providers are contractually required to handle personal data only as necessary to provide their services to us and to maintain the confidentiality and security of your information.
+Business Partners and Affiliates: In some cases, we may partner with other businesses or become affiliated with companies. We may share information with our affiliates or carefully selected business partners for joint marketing, promotions, or to offer integrated services, but only if you have engaged with those offerings or if such sharing is otherwise permitted by law.
+Legal Requirements and Protection: We may disclose personal information when we believe in good faith that such disclosure is necessary to comply with a legal obligation or process. This includes responding to subpoenas, court orders, or lawful requests by government authorities. We may also disclose your information to protect our rights, privacy, safety, or property, or that of our customers or others; to enforce our policies or contracts; or to investigate fraud or security issues.
+Business Transfers: If we undergo a business transaction such as a merger, acquisition, reorganization, or sale of some or all of our assets, personal information may be transferred as part of that deal.
+With Your Consent: We will share your personal information with other third parties when you direct us to or give us consent to do so.
+De-Identified or Aggregated Data: We may share information that has been aggregated or anonymized in such a way that it cannot reasonably be used to identify you.
+
+We require all third parties with whom we share personal information to protect it and to use it only for the purposes we specify. Where applicable, we rely on appropriate safeguards, such as data processing agreements or standard contractual clauses, to ensure that your personal information remains protected when transferred to service providers or partners in other jurisdictions.
+
+Data Retention
+
+We will retain your personal information only for as long as necessary to fulfill the purposes for which we collected it, including for the purposes of satisfying any legal, accounting, reporting, security, and compliance requirements.
+
+In general, this means we keep your data for the duration necessary to provide our services and for a reasonable period thereafter.
+
+Transactional records, such as purchases, payments, and communications with us, are retained as long as required to complete the transaction and for record-keeping as mandated by law.
+
+If you request that we delete your personal data, we will make reasonable efforts to securely erase or anonymize the information. However, we may retain certain limited information to the extent required to comply with laws, resolve disputes, enforce our agreements, or as necessary for security.
+
+Usage Data, such as analytics data, is generally retained for shorter periods, unless it is used to strengthen security or improve functionality of our service, or we are legally required to retain it for longer. We may also keep aggregated, non-identifying data for business analysis purposes without time limits.
+
+When personal information is no longer necessary, we will securely destroy or de-identify it.
+
+Cookies and Tracking Technologies
+
+Our website uses cookies and similar tracking technologies to distinguish you from other users and to optimize your experience. Cookies are small text files placed on your computer or device that help us remember your preferences and understand how you use our site.
+
+Types of Cookies We Use
+Essential Cookies: These cookies are necessary for the website to function and cannot be switched off in our systems.
+Preference Cookies: These cookies allow our site to remember choices you make and provide enhanced, more personalized features.
+Analytics Cookies: We use these cookies to collect information about how visitors use our website.
+Advertising & Marketing Cookies: These cookies track your browsing habits to enable us and our third-party marketing partners to show you ads or content that are more likely to be relevant to you.
+How We Use Cookies
+
+When you visit our site, we and certain third parties may use cookies and similar trackers to automatically collect certain data. We use cookies to personalize content, understand user behavior, analyze site traffic, improve site performance, and support advertising and remarketing activities.
+
+If we use advertising cookies, they may be used in conjunction with our advertising partners to show you relevant ads on our site or elsewhere. No directly identifying information such as your name or email is shared solely for targeted advertising purposes; instead, identifiers such as cookie IDs or device IDs may be used.
+
+Third-Party Analytics and Tracking
+
+We use third-party analytics and advertising tools, including services such as Google Analytics, advertising and remarketing tools, and similar technologies, which may set their own cookies to collect information about user interactions. These services help us understand aggregate usage patterns and improve our advertising performance. Because these are third-party services, their use of your data is subject to their own privacy policies.
+
+Your Choices for Cookies
+Browser Settings: Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies or alert you when a cookie is being placed on your computer.
+Cookie Banner: On our website's first visit, and periodically thereafter, we may display a cookie consent banner that allows you to accept or decline non-essential cookies.
+Do Not Track Signals: Some browsers offer a "Do Not Track" feature. At this time, our site does not respond to DNT signals due to the lack of an industry standard for compliance.
+Opt-Out Mechanisms: For third-party advertising cookies, you can also utilize industry opt-out tools where available.
+
+By continuing to use our site with cookies enabled, you are agreeing to our use of cookies as described in this section.
+
+User Rights and Choices
+
+Depending on your jurisdiction and the applicable privacy laws, you may have certain rights regarding your personal information. These may include:
+
+the right to access your information;
+the right to correct inaccurate information;
+the right to request deletion of your information;
+the right to restrict processing in certain cases;
+the right to object to certain processing;
+the right to data portability where applicable;
+the right to withdraw consent where processing is based on consent;
+the right to opt out of marketing communications.
+
+You or an authorized agent acting on your behalf can submit requests to exercise applicable rights by contacting us using the information in the Contact Information section of this Policy.
+
+We will respond to privacy rights requests within the timeframe required by law, generally within 30 days, with the possibility of a reasonable extension if needed.
+
+If you have concerns about our data practices, you may also have the right to lodge a complaint with a supervisory authority, regulator, or other official privacy body in your jurisdiction.
+
+Data Security
+
+We take the security of your personal information seriously. OpenGov Services LLC has implemented a combination of administrative, technical, and physical safeguards designed to protect your personal data against unauthorized access, disclosure, or destruction. These measures include, but are not limited to:
+
+Encryption: We use encryption protocols such as SSL/TLS to secure data in transit.
+Access Controls: We limit access to personal information to employees, contractors, and agents who need that information to perform their job duties and who are bound by confidentiality obligations.
+Network & System Security: Our systems are protected by security measures such as firewalls, software updates, and monitoring designed to identify and reduce risk.
+Training and Policies: Our team members are trained on data protection best practices and required to follow company policies on information security.
+Third-Party Security: When engaging third-party service providers, such as hosting companies, analytics providers, or payment/platform processors, we require appropriate security measures through contractual commitments.
+
+While we strive to protect your information, no method of transmission over the internet or electronic storage is 100% secure. Therefore, we cannot guarantee absolute security.
+
+In the event of a data breach that affects your personal information, we will notify you and the appropriate authorities as required by law.
+
+International Transfers
+
+Because OpenGov Services LLC operates in the United States and may use service providers in multiple jurisdictions, your personal information may be transferred to, stored, or processed in a country different from your home country. By using our services, you acknowledge that your data may be transferred to and processed in the United States, which may have data protection rules different from those of your country.
+
+When we transfer personal information across national borders, we take steps to ensure that adequate protections are in place in compliance with applicable data protection laws. This may include standard contractual clauses, data processing agreements, or other lawful transfer mechanisms where required.
+
+By providing us with your information or using our services, to the extent permitted by law, you consent to the transfer of your personal information across international borders.
+
+Children's Data
+
+Protecting the privacy of children is especially important. Our services are intended for a general audience and are not directed to children to use independently. We do not knowingly collect personal information directly from children under the age of 13 without verifiable parental or guardian involvement where required by law.
+
+In some cases, a parent or legal guardian may provide information relating to a minor in connection with services requested on the minor's behalf. In such cases, we will process that information only as necessary to provide the requested service and in accordance with applicable law.
+
+If you are a parent or guardian and believe we may have collected information from a child in a manner inconsistent with this Policy, please contact us promptly so that we can investigate and address the issue.
+
+Where required by applicable law, including in jurisdictions with higher age thresholds for children's privacy protections, we will apply the relevant legal standard and obtain any necessary parental or guardian consent.
+
+We do not knowingly use children's personal data for behavioral advertising in violation of applicable law.
+
+Changes to the Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices, technologies, legal requirements, or for other operational reasons. When we make changes, we will post the most current version of the Policy on our website and update the "Last Updated" date at the top.
+
+If we make material changes that significantly affect how we handle your personal information, we will take additional steps to inform you where required by law.
+
+Your continued use of our services after any update to this Privacy Policy will constitute your acknowledgment of the changes and your agreement to be bound by the revised Policy, to the extent permitted by law.
+
+Contact Information
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
+
+Business Name: OpenGov Services LLC
+Contact Person/Department: Customer Support
+Email: info@globepasshub.com
+Mailing Address: 500 4TH ST NW, SUITE 102, ALBUQUERQUE, NM 87102, USA
+Telephone: +1 505 448 7035
+
+We will respond to inquiries or requests as soon as reasonably possible, generally within 30 days. If you contact us to exercise any of your privacy rights, please include your name, contact information, and a detailed description of your request. For your protection, we may need to verify your identity before implementing your request.
+
+OpenGov Services LLC is an independent service provider that facilitates the preparation and submission of administrative travel documentation. Our platform assists individuals and legal entities in completing the required steps for short-term entry procedures, following the guidelines established by the relevant Canadian authorities. Services are supervised by a Class L2 - RCIC certified immigration and citizenship consultant, licensed by the College of Immigration and Citizenship Consultants (CICC). You can verify our standing on the Official CICC Public Register.
+Our Standard Processing fee is 99 USD, which includes the 7 CAD processing charge collected by Canadian immigration authorities. Please be advised that applicants may alternatively complete their Canada eTA request directly through the official Government of Canada website.
+
+Specialist team with extensive experience in the immigration industry.
+
+Useful links
+Legal Notice
+Privacy Policy
+Terms and Conditions of Service
+Refund Policy
+Cookie Policy
+FAQ's
+Contact us
+About us
+Disclaimer
+BBB Profile
+Solicitud eTA Canadá (ES)
+Canada eTA Application (EN)
+Contact
+
+Legal name:
+OpenGov Services LLC
+
+Address:
+500 4TH ST NW
+SUITE 102
+ALBUQUERQUE, NM 87102
+
+Email:
+info@globepasshub.com
+
+Phone:
++1 505 448 7035
+
+Copyright © 2026 by GlobePassHub All rights reserved.
+
+We use cookies to ensure the website works properly and to improve your experience. With your consent, we also use cookies for analytics and advertising. You can accept all cookies or manage your preferences.
+
+Learn more
+Accept all
+Cookie Policy
+Privacy Policy

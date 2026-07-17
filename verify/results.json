@@ -1,0 +1,53 @@
+{
+ "/canada-eta/apply": {
+  "live": {
+   "broken": [],
+   "console": [],
+   "height": 2314,
+   "title": "Canada eTA \u2014 Application Step 1 - GlobePassHub"
+  },
+  "local": {
+   "broken": [],
+   "console": [],
+   "height": 2314,
+   "title": "Canada eTA \u2014 Application Step 1 - GlobePassHub"
+  },
+  "live_text_len": 2367,
+  "local_text_len": 2367,
+  "text_ratio": 1.0
+ },
+ "/application/eta": {
+  "live": {
+   "broken": [],
+   "console": [],
+   "height": 1369,
+   "title": "Canada eTA Application - GlobePassHub"
+  },
+  "local": {
+   "broken": [],
+   "console": [],
+   "height": 1369,
+   "title": "Canada eTA Application - GlobePassHub"
+  },
+  "live_text_len": 1812,
+  "local_text_len": 1812,
+  "text_ratio": 1.0
+ },
+ "/login-gest": {
+  "live": {
+   "broken": [],
+   "console": [],
+   "height": 900,
+   "title": "Log in - GlobePassHub"
+  },
+  "local": {
+   "broken": [],
+   "console": [],
+   "height": 900,
+   "title": "Log in - GlobePassHub"
+  },
+  "live_text_len": 33,
+  "local_text_len": 33,
+  "text_ratio": 1.0
+ }
+}
