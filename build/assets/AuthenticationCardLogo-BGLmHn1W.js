@@ -1,0 +1,1 @@
+import{c as e,w as s,a as o,u as t,i as r,o as i}from"./app-DUv6Evip.js";const p={__name:"AuthenticationCardLogo",setup(n){return(c,a)=>(i(),e(t(r),{href:"/"},{default:s(()=>[...a[0]||(a[0]=[o("img",{src:"/img/GlobePassHub-canada-isotipo.webp",class:"h-20"},null,-1)])]),_:1}))}};export{p as _};

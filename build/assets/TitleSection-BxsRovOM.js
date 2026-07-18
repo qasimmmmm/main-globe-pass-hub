@@ -1,0 +1,1 @@
+import{d as t,a as o,t as r,n as a,o as s}from"./app-DUv6Evip.js";const l={class:"my-5 text-slate-800"},d={__name:"TitleSection",props:{title:String,borderTop:Boolean},setup(e){return(n,c)=>(s(),t("div",{class:a(["my-5 text-3xl",{"border-t":e.borderTop,"border-b":!e.borderTop}])},[o("h3",l,r(e.title),1)],2))}};export{d as _};

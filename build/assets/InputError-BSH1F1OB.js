@@ -1,0 +1,1 @@
+import{k as s,E as t,d as a,a as r,t as o,o as c}from"./app-DUv6Evip.js";const n={class:"error-container"},i={class:"text-sm text-red-600"},d={__name:"InputError",props:{message:String},setup(e){return(m,_)=>s((c(),a("div",n,[r("p",i,o(e.message),1)],512)),[[t,e.message]])}};export{d as _};
